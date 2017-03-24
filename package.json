@@ -1,0 +1,20 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "^C",
+  "main": "entry.js",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "style-loader": "^0.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "C"
+  }
+}
